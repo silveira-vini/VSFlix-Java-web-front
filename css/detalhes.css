@@ -10,6 +10,14 @@ body {
     /* Defina a altura como 100vh para ocupar toda a tela */
 }
 
+#logo_det {
+    height: 50px;
+    border-radius: 10px;
+}
+
+#div_det {
+    height: min-content;
+}
 
 .ficha img {
     margin: 0 3em 2em 0;
